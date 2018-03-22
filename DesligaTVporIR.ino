@@ -1,9 +1,10 @@
 /*
- * IRremote: IRsendDemo - demonstrates sending IR codes with IRsend
+ * Sends on/off toggle signal to TV every 5 seconds.
+ * Inspired by IRremote: IRsendDemo (by Ken Shirriff)
  * An IR LED must be connected to Arduino PWM pin 3.
- * Version 0.1 July, 2009
- * Copyright 2009 Ken Shirriff
- * http://arcfn.com
+ * Version 0.1 March, 2018
+ * Copyright 2018 Otavio Carneiro
+ * http://www.carneiro.blog.br
  */
 
 
